@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Random Forest Classification Documentation</title>
 </head>
 <body>
 <h1>Random Forest Classification Script Documentation</h1>
